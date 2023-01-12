@@ -51,7 +51,7 @@ if __name__ == '__main__':
 # TinderBots/tinder-data-analysis-bot/main.py 
 # Version: 1.0
 ################################
-#         Copy Right Details
+#         Copyright Details
 # © OpenBotBook
 # https://github.com/OpenBotBook
 # Apache License
